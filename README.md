@@ -18,3 +18,6 @@
 - Run the application 
 
   `ng serve`
+
+- YouTube video
+  `https://www.youtube.com/watch?v=xAT0lHYhHMY&list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF&index=1`
